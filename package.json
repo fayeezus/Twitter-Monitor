@@ -1,0 +1,34 @@
+{
+  "name": "twitter-monitor-node",
+  "version": "1.1.0",
+  "description": "A Twitter monitor using Twit, Node-Fetch, & Tesseract",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-fetch": "^2.6.1",
+    "tesseract.js": "^2.1.4",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sami6494/twitter-monitor-node.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Monitor",
+    "Twit",
+    "Node",
+    "Tesseract",
+    "Discord"
+  ],
+  "author": "Sami Boulahbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sami6494/twitter-monitor-node/issues"
+  },
+  "homepage": "https://github.com/Sami6494/twitter-monitor-node#readme"
+}
