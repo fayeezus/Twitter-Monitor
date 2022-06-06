@@ -1,14 +1,14 @@
 {
 
-  "consumer_key": "7DzlhUCcdR352eFrsyvG22iU6",
-  "consumer_secret": "TVNBxBrKsTa0EDCiWh3REcaeJjQyFerd6eQfEfUiR60nT57Dlr",
-  "access_token": "729406830-kBjA8SlfAKTZaY2d6YPuaZAi4Ha78oA5g6vKOYrw",
-  "access_token_secret": "N0FMmPAnUegQ9qj3Wi6js6ASyEQIvUEfWylYcntKq0XPN",
+  "consumer_key": "",
+  "consumer_secret": "",
+  "access_token": "",
+  "access_token_secret": "",
 
-  "webhook": "https://discord.com/api/webhooks/534196311445078026/4F5hhVyGpVd2wr2gkP9aameaEdwiOU09AoyF0cPXg6GIlygwfA1BxcW-vHyVVDY6Etk9",
+  "webhook": "",
 
   "accounts": [
-	"@solelinks", "@snkr_twitr", "@J23app", "@NotifyRobot"
+	"@", "@", "@", "@"
   ]
 
 }
